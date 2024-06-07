@@ -1,5 +1,5 @@
 # Drug Use Prediction Project
-### [Russian](https://github.com/cactus-tim/ml_project/blob/main/Readme.eng.md)
+### [Russian](https://github.com/cactus-tim/ml_project/blob/main/Readme.ru.md)
 
 ## Overview
 ***
