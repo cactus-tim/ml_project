@@ -6,7 +6,7 @@
 
 This project, conducted as part of the 2nd-year curriculum at HSE SPb, aims to predict the probability of drug use for individuals based on psychological tests, education level, and race. The primary focus is on predicting both past and future drug use likelihood.
 
-### [Presentation](https://docs.google.com/presentation/d/1SRAx6Q4AqNjn7umS8HGrHtlK8aV99tllMibPskqCLgE/edit#slide=id.g2e2fc8ce46e_3_9)
+### [Presentation](https://docs.google.com/presentation/d/12mVAZwc1BSGk0QIwYD6lov-KaRS65YofiZYW_E_o3bw/edit#slide=id.g2e2ae930e05_0_13)
 
 ### [Dataset](https://www.kaggle.com/datasets/mexwell/drug-consumption-classification/data)
 
