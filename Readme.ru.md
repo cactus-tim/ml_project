@@ -1,5 +1,5 @@
 # Проект по предсказанию употребления наркотиков
-### [English]()
+### [English](https://github.com/cactus-tim/ml_project/blob/main/Readme.eng.md)
 
 ## Обзор
 ***
