@@ -6,7 +6,7 @@
 
 Этот проект, проведенный в рамках учебного процесса на 2-м курсе ВШЭ СПб, направлен на предсказание вероятности употребления наркотиков для отдельных индивидов на основе психологических тестов, уровня образования и расы. Основное внимание уделяется прогнозированию вероятности употребления как в прошлом, так и в будущем.
 
-### [Презентация](https://docs.google.com/presentation/d/1SRAx6Q4AqNjn7umS8HGrHtlK8aV99tllMibPskqCLgE/edit#slide=id.g2e2fc8ce46e_3_9)
+### [Презентация](https://docs.google.com/presentation/d/12mVAZwc1BSGk0QIwYD6lov-KaRS65YofiZYW_E_o3bw/edit#slide=id.g2e2ae930e05_0_13)
 
 ### [Датасет](https://www.kaggle.com/datasets/mexwell/drug-consumption-classification/data)
 
